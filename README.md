@@ -4,7 +4,7 @@
 💻 Labs and term project for the Bilkent University EE102 Introduction to Digital Circuit Design course in Fall 2022 semester. 
 
 
-##Labs 📄 
+## Labs 📄 
 - [Lab 1](https://github.com/ynarter/EE102/tree/main/Lab%2001)
 
 - [Lab 2](https://github.com/ynarter/EE102/tree/main/Lab%2002)
@@ -19,7 +19,7 @@
 
 - [Lab 7](https://github.com/ynarter/EE102/tree/main/Lab%2007)
 
-##Term Project 💾
+## Term Project 💾
 - [Project Report and Codes](https://github.com/ynarter/EE102/tree/main/Project)
 
 🎞️ You can find the video presentation link and also more details about the project in the README file.
