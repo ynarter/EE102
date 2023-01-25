@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Mon Dec 19 12:33:13 2022
+# Process ID: 10028
+# Current directory: C:/Users/yigit/Desktop/distance
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16508 C:\Users\yigit\Desktop\distance\project_3.xpr
+# Log file: C:/Users/yigit/Desktop/distance/vivado.log
+# Journal file: C:/Users/yigit/Desktop/distance\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/yigit/Desktop/distance/project_3.xpr
+update_compile_order -fileset sources_1
+open_hw
+connect_hw_server
+open_hw_target
+set_property PROGRAM.FILE {C:/Users/yigit/Desktop/distance/project_3.runs/impl_1/sistema_maxsonar.bit} [get_hw_devices xc7a35t_0]
+current_hw_device [get_hw_devices xc7a35t_0]
+refresh_hw_device -update_hw_probes false [lindex [get_hw_devices xc7a35t_0] 0]
+set_property PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property PROGRAM.FILE {C:/Users/yigit/Desktop/distance/project_3.runs/impl_1/sistema_maxsonar.bit} [get_hw_devices xc7a35t_0]
+program_hw_devices [get_hw_devices xc7a35t_0]
+refresh_hw_device [lindex [get_hw_devices xc7a35t_0] 0]
