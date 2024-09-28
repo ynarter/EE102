@@ -1,4 +1,4 @@
-# EE102 Term Project: Shape and Distance Detection
+# EE102 Term Project: Real-Time Shape and Distance Detection
 
 📖 The project consists of two parts. The shapes are detected with OpenCV on Python and the result is sent to the LEDs of the BASYS3 board with UART communication. The distance is found using an ultrasonic sensor and a buzzer rings with increasing frequency as the object comes closer. 
 
