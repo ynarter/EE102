@@ -1,5 +1,5 @@
 
-# EE102 Labs and Term Project
+# EE102: Introduction to Digital Circuit Design
 
 💻 Labs and term project for the Bilkent University EE102 Introduction to Digital Circuit Design course in Fall 2022 semester. You may find the related VHDL code inside the .zip files.
 
