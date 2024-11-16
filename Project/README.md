@@ -4,4 +4,6 @@
 
 ✍️ The UART communication, distance detection, distance being shown on the seven-segment display and the buzzer system are all achieved by VHDL.
 
+📖 Refer to the [project report](https://github.com/ynarter/EE102/blob/main/Project/final%20report%20102.pdf) for more details.
+
 🎦 [Click for Video Presentation](https://www.youtube.com/watch?v=zwSNeKLz7V0&ab_channel=Yi%C4%9FitNarter)
